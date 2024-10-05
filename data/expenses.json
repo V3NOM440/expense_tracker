@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 2010.0,
+        "category": "transportation",
+        "description": "\\bike fuel",
+        "date": "2024-10-05 16:54:12.053554"
+    },
+    {
+        "amount": 418.0,
+        "category": "vegetable",
+        "description": "1 week vgetable",
+        "date": "2024-10-05 16:54:53.101226"
+    }
+]
